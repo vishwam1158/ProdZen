@@ -216,7 +216,7 @@ If you are in the European Economic Area (EEA), you have additional rights under
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-**Email:** support@prodzen.app  
+**Email:** prodzen.app@gmail.com 
 **Response Time:** Within 30 days
 
 ---
