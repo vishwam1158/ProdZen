@@ -1,7 +1,7 @@
 # Privacy Policy for Prod Zen
 
-**Last Updated: December 31, 2025**  
-**Effective Date: December 31, 2025**
+**Last Updated: January 2, 2026**  
+**Effective Date: January 2, 2026**
 
 ---
 
@@ -153,7 +153,7 @@ You have the right to:
 
 Prod Zen is **not intended for children under 13 years of age**. We do not knowingly collect personal information from children under 13.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at support@prodzen.app.
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at prodzen.app@gmail.com.
 
 ---
 
